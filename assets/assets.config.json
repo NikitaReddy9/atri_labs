@@ -1,0 +1,62 @@
+{
+  "1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "finance.avif": {
+    "mime": "image/avif"
+  },
+  "technology.avif": {
+    "mime": "image/avif"
+  },
+  "consulting.jpg": {
+    "mime": "image/jpeg"
+  },
+  "education.jpg": {
+    "mime": "image/jpeg"
+  },
+  "edu.jpg": {
+    "mime": "image/jpeg"
+  },
+  "appx.jpg": {
+    "mime": "image/jpeg"
+  },
+  "technologu.jpg": {
+    "mime": "image/jpeg"
+  },
+  "consultingx.jpg": {
+    "mime": "image/jpeg"
+  },
+  "about.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "symbol.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ui.svg": {
+    "mime": "image/svg+xml"
+  },
+  "web.svg": {
+    "mime": "image/svg+xml"
+  },
+  "product.svg": {
+    "mime": "image/svg+xml"
+  },
+  "brand.svg": {
+    "mime": "image/svg+xml"
+  },
+  "user.svg": {
+    "mime": "image/svg+xml"
+  },
+  "motion.svg": {
+    "mime": "image/svg+xml"
+  },
+  "news1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "news2.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
